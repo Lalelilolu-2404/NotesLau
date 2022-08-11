@@ -1,0 +1,22 @@
+{
+  "name": "laurisnotes",
+  "version": "1.0.0",
+  "description": "Notitas lau",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Notitas",
+    "and",
+    "cartitas"
+  ],
+  "author": "Lauris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "node-js": "^1.0.0"
+  }
+}
