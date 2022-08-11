@@ -4,7 +4,8 @@
   "description": "Notitas lau",
   "main": "notes.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node notes.js"
   },
   "keywords": [
     "Notitas",
